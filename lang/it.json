@@ -1,0 +1,130 @@
+{
+    "name": "Joao Pedro Jacques Kuligowski",
+    "position": "Sviluppatore Full Stack",
+    "profilePicture": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQEmVDTQGSXYDw\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1713351274858?e=1734566400&v=beta&t=cZwo3nGB821fKaLZCc9A73_-UWPO8G_lKecA_-aKER0",
+    "summary": "Sviluppatore Full Stack con esperienza nello sviluppo e nella manutenzione di applicazioni web utilizzando tecnologie come React.js, Node.js, PHP, Laravel e CodeIgniter. Competenze nei database relazionali come MySQL e PostgreSQL. Solida esperienza nella costruzione di API RESTful e nell'integrazione con code di messaggi (RabbitMQ, BullMQ). Adatto a metodologie agili e al versionamento del codice con Git (GitHub e Bitbucket). Impegnato nella fornitura di soluzioni efficienti e scalabili, con attenzione alla qualit\u00e0 del codice e all'esperienza dell'utente.",
+    "experience": [
+        {
+            "title": "Programmatore",
+            "company": "iBridge Technology",
+            "location": "Florian\u00f3polis, SC",
+            "period": "Feb 2024 - Presente",
+            "responsibilities": [
+                "Sviluppo e manutenzione di applicazioni web utilizzando React.js, TypeScript, Node.js, NestJS.",
+                "Implementazione di API RESTful per l'integrazione con sistemi interni ed esterni.",
+                "Utilizzo di code di messaggi (BullMQ) per l'elaborazione asincrona dei compiti.",
+                "Collaborazione in team utilizzando metodologie agili (Scrum)."
+            ]
+        },
+        {
+            "title": "Programmatore",
+            "company": "ECG Sistemas LTDA. EPP.",
+            "location": "Palho\u00e7a, SC",
+            "period": "Mag 2023 - Ott 2023",
+            "responsibilities": [
+                "Sviluppo di sistemi di fatturazione utilizzando PHP, CodeIgniter e MySQL.",
+                "Implementazione di integrazioni con gateway di pagamento e piattaforme di fatturazione.",
+                "Manutenzione e ottimizzazione di sistemi legacy."
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Portoghese",
+            "fluency": "Nativo",
+            "proficiency": 100
+        },
+        {
+            "language": "Inglese",
+            "fluency": "Avanzato",
+            "proficiency": 70
+        }
+    ],
+    "skills": {
+        "programmingLanguages": [
+            "JavaScript",
+            "TypeScript",
+            "PHP",
+            "C",
+            "C++",
+            "SQL"
+        ],
+        "frameworksAndLibraries": [
+            "React.js",
+            "Node.js",
+            "NestJS",
+            "Laravel",
+            "CodeIgniter",
+            "Bootstrap",
+            "Tailwind CSS",
+            "Antd",
+            "Plasmo",
+            "Knex",
+            "Jest"
+        ],
+        "databases": [
+            "MySQL",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "toolsAndTechnologies": [
+            "Git (GitHub, Bitbucket)",
+            "Docker",
+            "Nginx",
+            "RabbitMQ",
+            "BullMQ",
+            "N8N",
+            "Typebot",
+            "Sentry",
+            "Ansible",
+            "Vite",
+            "Asterisk",
+            "Server Windows",
+            "Linux"
+        ],
+        "otherSkills": [
+            "Sistemi di fatturazione",
+            "Processo di fatturazione",
+            "Fatturazione di affitti",
+            "Fatturazione dei servizi di telecomunicazione",
+            "Recupero crediti",
+            "Marketing diretto",
+            "Marketing di performance",
+            "Pubblicit\u00e0",
+            "Pubblicit\u00e0 sui social media",
+            "Campagne di ricerca a pagamento"
+        ]
+    },
+    "education": {
+        "degree": "Ingegneria del Software",
+        "institution": "Faculdade Pit\u00e1goras",
+        "period": "Set 2022 - Ott 2024"
+    },
+    "links": {
+        "github": "https:\/\/github.com\/joaojkuligowski"
+    },
+    "menu": [
+        {
+            "text": "Curriculum",
+            "route": "\/"
+        },
+        {
+            "text": "Contatto",
+            "route": "\/contact"
+        }
+    ],
+    "sections": {
+        "experience": "Esperienza",
+        "languages": "Lingue",
+        "technologies": "Competenze tecniche",
+        "education": "Formazione",
+        "skills": "Competenze",
+        "links": "Collegamenti",
+        "menu": "Menu",
+        "programmingLanguages": "Linguaggi di programmazione",
+        "frameworksAndLibraries": "Framework e librerie",
+        "databases": "Database",
+        "toolsAndTechnologies": "Strumenti e tecnologie",
+        "otherSkills": "Altre competenze"
+    }
+}

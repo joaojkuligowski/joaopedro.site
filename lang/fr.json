@@ -1,0 +1,130 @@
+{
+    "name": "Joao Pedro Jacques Kuligowski",
+    "position": "D\u00e9veloppeur Full Stack",
+    "profilePicture": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQEmVDTQGSXYDw\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1713351274858?e=1734566400&v=beta&t=cZwo3nGB821fKaLZCc9A73_-UWPO8G_lKecA_-aKER0",
+    "summary": "D\u00e9veloppeur Full Stack avec de l'exp\u00e9rience dans le d\u00e9veloppement et la maintenance d'applications Web utilisant des technologies telles que React.js, Node.js, PHP, Laravel et CodeIgniter. Comp\u00e9tences en bases de donn\u00e9es relationnelles telles que MySQL et PostgreSQL. Forte exp\u00e9rience dans la construction d'API RESTful et l'int\u00e9gration avec des files d'attente de messages (RabbitMQ, BullMQ). Adopte des m\u00e9thodologies agiles et la gestion de code avec Git (GitHub et Bitbucket). Engag\u00e9 \u00e0 fournir des solutions efficaces et \u00e9volutives, en mettant l'accent sur la qualit\u00e9 du code et l'exp\u00e9rience utilisateur.",
+    "experience": [
+        {
+            "title": "Programmeur",
+            "company": "iBridge Technology",
+            "location": "Florian\u00f3polis, SC",
+            "period": "F\u00e9v 2024 - Pr\u00e9sent",
+            "responsibilities": [
+                "D\u00e9veloppement et maintenance d'applications Web utilisant React.js, TypeScript, Node.js, NestJS.",
+                "Impl\u00e9mentation d'API RESTful pour l'int\u00e9gration avec des syst\u00e8mes internes et externes.",
+                "Utilisation de files d'attente de messages (BullMQ) pour le traitement asynchrone des t\u00e2ches.",
+                "Collaboration en \u00e9quipe utilisant des m\u00e9thodologies agiles (Scrum)."
+            ]
+        },
+        {
+            "title": "Programmeur",
+            "company": "ECG Sistemas LTDA. EPP.",
+            "location": "Palho\u00e7a, SC",
+            "period": "Mai 2023 - Oct 2023",
+            "responsibilities": [
+                "D\u00e9veloppement de syst\u00e8mes de facturation utilisant PHP, CodeIgniter et MySQL.",
+                "Impl\u00e9mentation d'int\u00e9grations avec des passerelles de paiement et des plateformes de facturation.",
+                "Maintenance et optimisation des syst\u00e8mes h\u00e9rit\u00e9s."
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Portugais",
+            "fluency": "Natif",
+            "proficiency": 100
+        },
+        {
+            "language": "Anglais",
+            "fluency": "Avanc\u00e9",
+            "proficiency": 70
+        }
+    ],
+    "skills": {
+        "programmingLanguages": [
+            "JavaScript",
+            "TypeScript",
+            "PHP",
+            "C",
+            "C++",
+            "SQL"
+        ],
+        "frameworksAndLibraries": [
+            "React.js",
+            "Node.js",
+            "NestJS",
+            "Laravel",
+            "CodeIgniter",
+            "Bootstrap",
+            "Tailwind CSS",
+            "Antd",
+            "Plasmo",
+            "Knex",
+            "Jest"
+        ],
+        "databases": [
+            "MySQL",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "toolsAndTechnologies": [
+            "Git (GitHub, Bitbucket)",
+            "Docker",
+            "Nginx",
+            "RabbitMQ",
+            "BullMQ",
+            "N8N",
+            "Typebot",
+            "Sentry",
+            "Ansible",
+            "Vite",
+            "Asterisk",
+            "Serveur Windows",
+            "Linux"
+        ],
+        "otherSkills": [
+            "Syst\u00e8mes de facturation",
+            "Processus de facturation",
+            "Facturation de location",
+            "Facturation des services de t\u00e9l\u00e9communications",
+            "Recouvrement de cr\u00e9ances",
+            "Marketing direct",
+            "Marketing de performance",
+            "Publicit\u00e9",
+            "Publicit\u00e9 sur les m\u00e9dias sociaux",
+            "Campagnes de recherche payantes"
+        ]
+    },
+    "education": {
+        "degree": "Ing\u00e9nierie logicielle",
+        "institution": "Faculdade Pit\u00e1goras",
+        "period": "Sep 2022 - Oct 2024"
+    },
+    "links": {
+        "github": "https:\/\/github.com\/joaojkuligowski"
+    },
+    "menu": [
+        {
+            "text": "CV",
+            "route": "\/"
+        },
+        {
+            "text": "Contact",
+            "route": "\/contact"
+        }
+    ],
+    "sections": {
+        "experience": "Exp\u00e9rience",
+        "languages": "Langues",
+        "technologies": "Comp\u00e9tences techniques",
+        "education": "Formation",
+        "skills": "Comp\u00e9tences",
+        "links": "Liens",
+        "menu": "Menu",
+        "programmingLanguages": "Langages de programmation",
+        "frameworksAndLibraries": "Frameworks et biblioth\u00e8ques",
+        "databases": "Bases de donn\u00e9es",
+        "toolsAndTechnologies": "Outils et technologies",
+        "otherSkills": "Autres comp\u00e9tences"
+    }
+}

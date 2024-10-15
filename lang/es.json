@@ -1,0 +1,130 @@
+{
+    "name": "Joao Pedro Jacques Kuligowski",
+    "position": "Desarrollador Full Stack",
+    "profilePicture": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQEmVDTQGSXYDw\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1713351274858?e=1734566400&v=beta&t=cZwo3nGB821fKaLZCc9A73_-UWPO8G_lKecA_-aKER0",
+    "summary": "Desarrollador Full Stack con experiencia en desarrollo y mantenimiento de aplicaciones web utilizando tecnolog\u00edas como React.js, Node.js, PHP, Laravel y CodeIgniter. Habilidades en bases de datos relacionales como MySQL y PostgreSQL. Fuerte experiencia en la construcci\u00f3n de APIs RESTful e integraci\u00f3n con colas de mensajes (RabbitMQ, BullMQ). Adepto a metodolog\u00edas \u00e1giles y control de versiones de c\u00f3digo con Git (GitHub y Bitbucket). Comprometido con la entrega de soluciones eficientes y escalables, con foco en la calidad del c\u00f3digo y la experiencia del usuario.",
+    "experience": [
+        {
+            "title": "Programador",
+            "company": "iBridge Technology",
+            "location": "Florian\u00f3polis, SC",
+            "period": "Feb 2024 - Presente",
+            "responsibilities": [
+                "Desarrollo y mantenimiento de aplicaciones web utilizando React.js, TypeScript, Node.js, NestJS.",
+                "Implementaci\u00f3n de APIs RESTful para integraci\u00f3n con sistemas internos y externos.",
+                "Uso de colas de mensajes (BullMQ) para el procesamiento as\u00edncrono de tareas.",
+                "Colaboraci\u00f3n en equipo utilizando metodolog\u00edas \u00e1giles (Scrum)."
+            ]
+        },
+        {
+            "title": "Programador",
+            "company": "ECG Sistemas LTDA. EPP.",
+            "location": "Palho\u00e7a, SC",
+            "period": "May 2023 - Oct 2023",
+            "responsibilities": [
+                "Desarrollo de sistemas de cobranza utilizando PHP, CodeIgniter y MySQL.",
+                "Implementaci\u00f3n de integraciones con pasarelas de pago y plataformas de cobranza.",
+                "Mantenimiento y optimizaci\u00f3n de sistemas heredados."
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Portugu\u00e9s",
+            "fluency": "Nativo",
+            "proficiency": 100
+        },
+        {
+            "language": "Ingl\u00e9s",
+            "fluency": "Avanzado",
+            "proficiency": 70
+        }
+    ],
+    "skills": {
+        "programmingLanguages": [
+            "JavaScript",
+            "TypeScript",
+            "PHP",
+            "C",
+            "C++",
+            "SQL"
+        ],
+        "frameworksAndLibraries": [
+            "React.js",
+            "Node.js",
+            "NestJS",
+            "Laravel",
+            "CodeIgniter",
+            "Bootstrap",
+            "Tailwind CSS",
+            "Antd",
+            "Plasmo",
+            "Knex",
+            "Jest"
+        ],
+        "databases": [
+            "MySQL",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "toolsAndTechnologies": [
+            "Git (GitHub, Bitbucket)",
+            "Docker",
+            "Nginx",
+            "RabbitMQ",
+            "BullMQ",
+            "N8N",
+            "Typebot",
+            "Sentry",
+            "Ansible",
+            "Vite",
+            "Asterisk",
+            "Servidor Windows",
+            "Linux"
+        ],
+        "otherSkills": [
+            "Sistemas de Cobranza",
+            "Proceso de Facturaci\u00f3n",
+            "Cobranza de Alquiler",
+            "Cobranzas de Servicios de Telecomunicaciones",
+            "Cobranza de Deuda",
+            "Marketing Directo",
+            "Marketing de Rendimiento",
+            "Publicidad",
+            "Publicidad en Medios Sociales",
+            "Campa\u00f1as de B\u00fasqueda Pagas"
+        ]
+    },
+    "education": {
+        "degree": "Ingenier\u00eda de Software",
+        "institution": "Faculdade Pit\u00e1goras",
+        "period": "Sep 2022 - Oct 2024"
+    },
+    "links": {
+        "github": "https:\/\/github.com\/joaojkuligowski"
+    },
+    "menu": [
+        {
+            "text": "Curr\u00edculum",
+            "route": "\/"
+        },
+        {
+            "text": "Contacto",
+            "route": "\/contact"
+        }
+    ],
+    "sections": {
+        "experience": "Experiencia",
+        "languages": "Idiomas",
+        "technologies": "Habilidades T\u00e9cnicas",
+        "education": "Formaci\u00f3n",
+        "skills": "Habilidades",
+        "links": "Enlaces",
+        "menu": "Men\u00fa",
+        "programmingLanguages": "Lenguajes de Programaci\u00f3n",
+        "frameworksAndLibraries": "Frameworks y Bibliotecas",
+        "databases": "Bases de Datos",
+        "toolsAndTechnologies": "Herramientas y T\u00e9cnicas",
+        "otherSkills": "Habilidades Adicionales"
+    }
+}

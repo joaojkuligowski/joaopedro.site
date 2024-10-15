@@ -1,0 +1,130 @@
+{
+    "name": "Joao Pedro Jacques Kuligowski",
+    "position": "Desenvolvedor Full Stack",
+    "profilePicture": "https:\/\/media.licdn.com\/dms\/image\/v2\/D4D03AQEmVDTQGSXYDw\/profile-displayphoto-shrink_200_200\/profile-displayphoto-shrink_200_200\/0\/1713351274858?e=1734566400&v=beta&t=cZwo3nGB821fKaLZCc9A73_-UWPO8G_lKecA_-aKER0",
+    "summary": "Full Stack Developer with experience in developing and maintaining web applications using technologies such as React.js, Node.js, PHP, Laravel and CodeIgniter. Skills in relational databases such as MySQL and PostgreSQL. Strong experience in building RESTful APIs and integrating with message queues (RabbitMQ, BullMQ). Adherent to agile methodologies and code versioning with Git (GitHub and Bitbucket). Committed to delivering efficient and scalable solutions, focusing on code quality and user experience.",
+    "experience": [
+        {
+            "title": "Programmer",
+            "company": "iBridge Technology",
+            "location": "Florian\u00f3polis, SC",
+            "period": "Feb 2024 - Present",
+            "responsibilities": [
+                "Development and maintenance of web applications using React.js, TypeScript, Node.js, NestJS.",
+                "Implementation of RESTful APIs for integration with internal and external systems.",
+                "Use of message queues (BullMQ) for asynchronous task processing.",
+                "Team collaboration using agile methodologies (Scrum)."
+            ]
+        },
+        {
+            "title": "Programmer",
+            "company": "ECG Sistemas LTDA. EPP.",
+            "location": "Palho\u00e7a, SC",
+            "period": "May 2023 - Oct 2023",
+            "responsibilities": [
+                "Development of billing systems using PHP, CodeIgniter and MySQL.",
+                "Implementation of integrations with payment gateways and billing platforms.",
+                "Maintenance and optimization of legacy systems."
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Portuguese",
+            "fluency": "Native",
+            "proficiency": 100
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced",
+            "proficiency": 70
+        }
+    ],
+    "skills": {
+        "programmingLanguages": [
+            "JavaScript",
+            "TypeScript",
+            "PHP",
+            "C",
+            "C++",
+            "SQL"
+        ],
+        "frameworksAndLibraries": [
+            "React.js",
+            "Node.js",
+            "NestJS",
+            "Laravel",
+            "CodeIgniter",
+            "Bootstrap",
+            "Tailwind CSS",
+            "Antd",
+            "Plasmo",
+            "Knex",
+            "Jest"
+        ],
+        "databases": [
+            "MySQL",
+            "PostgreSQL",
+            "Redis"
+        ],
+        "toolsAndTechnologies": [
+            "Git (GitHub, Bitbucket)",
+            "Docker",
+            "Nginx",
+            "RabbitMQ",
+            "BullMQ",
+            "N8N",
+            "Typebot",
+            "Sentry",
+            "Ansible",
+            "Vite",
+            "Asterisk",
+            "Windows Server",
+            "Linux"
+        ],
+        "otherSkills": [
+            "Billing Systems",
+            "Invoicing Process",
+            "Rent Collection",
+            "Telecommunications Services Billing",
+            "Debt Collection",
+            "Direct Marketing",
+            "Performance Marketing",
+            "Advertising",
+            "Social Media Advertising",
+            "Paid Search Campaigns"
+        ]
+    },
+    "education": {
+        "degree": "Software Engineering",
+        "institution": "Faculdade Pit\u00e1goras",
+        "period": "Sep 2022 - Oct 2024"
+    },
+    "links": {
+        "github": "https:\/\/github.com\/joaojkuligowski"
+    },
+    "menu": [
+        {
+            "text": "Resume",
+            "route": "\/"
+        },
+        {
+            "text": "Contact",
+            "route": "\/contact"
+        }
+    ],
+    "sections": {
+        "experience": "Experience",
+        "languages": "Languages",
+        "technologies": "Technical Skills",
+        "education": "Education",
+        "skills": "Skills",
+        "links": "Links",
+        "menu": "Menu",
+        "programmingLanguages": "Programming Languages",
+        "frameworksAndLibraries": "Frameworks and Libraries",
+        "databases": "Databases",
+        "toolsAndTechnologies": "Tools and Technologies",
+        "otherSkills": "Additional Skills"
+    }
+}
