@@ -1,15 +1,4 @@
 <?php
-if (isset($_GET['compile'])) {
-  require_once 'controller.php';
-  $controller = new Controller();
-  $controller->setAsset('css', 'https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css');
-  $controller->setAsset('js', 'https://cdn.jsdelivr.net/npm/@tabler/icons@latest/icons-react/dist/index.umd.min.js');
-  $controller->setAsset('js', 'https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css');
-  $controller->compile();
-
-  echo '<meta http-equiv="refresh" content="0; URL=index.php">';
-}
-
 if (isset($_GET['lang'])) {
   $lang = $_GET['lang'];
   try {
@@ -28,8 +17,8 @@ if (isset($_GET['lang'])) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>joaopedro.site</title>
-  <link rel="stylesheet" href="assets.min.css">
-  <script src="assets.min.js"></script>
+  <link rel="stylesheet" href="styles.min.css">
+  <script src="scripts.min.js"></script>
 </head>
 
 <body class="bg-gray-100 font-sans">
