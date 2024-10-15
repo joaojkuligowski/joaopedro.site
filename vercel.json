@@ -6,20 +6,16 @@
   },
   "routes": [
     {
-      "src": "(.*)",
+      "src": "/(css|js)/(.*)$",
+      "dest": "/api/assets.php?type=$1&file=$2"
+    },
+    {
+      "src": "/languages/(.*)",
+      "dest": "/api/languages.php?lang=$1"
+    },
+    {
+      "src": "/(.*)",
       "dest": "/api/index.php"
-    },
-    {
-      "src": "scripts.min.js",
-      "dest": "/api/scripts.min.js"
-    },
-    {
-      "src": "styles.min.css",
-      "dest": "/api/styles.min.css"
-    },
-    {
-      "src": "lang/(.*)",
-      "dest": "/api/lang/"
     }
   ]
 }

@@ -2,9 +2,9 @@
 if (isset($_GET['lang'])) {
   $lang = $_GET['lang'];
   try {
-    $fileContent = file_get_contents('lang/' . $lang . '.json');
+    $fileContent = file_get_contents('languages/' . $lang . '.json');
   } catch (Exception $e) {
-    $fileContent = file_get_contents('lang/en.json');
+    $fileContent = file_get_contents('languages/en.json');
   }
   header('Content-Type: application/json');
   echo $fileContent;
@@ -17,8 +17,8 @@ if (isset($_GET['lang'])) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>joaopedro.site</title>
-  <link rel="stylesheet" href="styles.min.css">
-  <script src="scripts.min.js"></script>
+  <link rel="stylesheet" href="css/styles.min.css">
+  <script src="js/scripts.min.js"></script>
 </head>
 
 <body class="bg-gray-100 font-sans">
