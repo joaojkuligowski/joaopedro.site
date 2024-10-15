@@ -1,15 +1,3 @@
-<?php
-if (isset($_GET['lang'])) {
-  $lang = $_GET['lang'];
-  try {
-    $fileContent = file_get_contents('languages/' . $lang . '.json');
-  } catch (Exception $e) {
-    $fileContent = file_get_contents('languages/en.json');
-  }
-  header('Content-Type: application/json');
-  echo $fileContent;
-  exit;
-} ?>
 <!DOCTYPE html>
 <html id="html-lang" lang="en-US">
 
@@ -28,7 +16,7 @@ if (isset($_GET['lang'])) {
 <script>
   async function fetchResumeData(lang) {
     try {
-      const response = await fetch('/?lang=' + lang);
+      const response = await fetch('/languages/' + lang);
       const resumeData = await response.json();
 
       renderResume(resumeData);
