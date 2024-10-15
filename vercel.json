@@ -6,19 +6,19 @@
   },
   "routes": [
     {
-      "src": "/api/(.*)",
+      "src": "(.*)",
       "dest": "/api/index.php"
     },
     {
-      "src": "/api/scripts.min.js",
+      "src": "scripts.min.js",
       "dest": "/api/scripts.min.js"
     },
     {
-      "src": "/api/styles.min.css",
+      "src": "styles.min.css",
       "dest": "/api/styles.min.css"
     },
     {
-      "src": "/api/lang/(.*)",
+      "src": "lang/(.*)",
       "dest": "/api/lang/"
     }
   ]
