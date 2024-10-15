@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: application/json; charset=utf-8');
 
-$lang = $_GET['lang'] ?? 'default'; // Define um padrão se o lang não for fornecido
+$lang = $_GET['lang'] ?? 'pt-br'; // Define um padrão se o lang não for fornecido
 $lang = preg_replace('/[^a-zA-Z]/', '', $lang); // Remove caracteres indesejados para segurança
 
 $filePath = __DIR__ . '/public/lang/' . $lang . '.json';
