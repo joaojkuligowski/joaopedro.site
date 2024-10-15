@@ -10,7 +10,7 @@
       "dest": "/api/assets.php?type=$1&file=$2"
     },
     {
-      "src": "/languages/(.*)",
+      "src": "/languages/(.*)$",
       "dest": "/api/languages.php?lang=$1"
     },
     {

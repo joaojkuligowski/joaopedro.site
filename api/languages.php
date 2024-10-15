@@ -1,5 +1,5 @@
 <?php
 if ($_GET['lang']) {
   header('Content-Type: application/json');
-  echo file_get_contents('lang/' . $_GET['lang'] . '.json');
+  echo require __DIR__ . '/public/languages/' . basename($_GET['lang'] . '.json');
 }
