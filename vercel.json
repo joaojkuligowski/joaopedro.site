@@ -6,16 +6,12 @@
   },
   "routes": [
     {
-      "src": "/(css|js)/(.*)$",
-      "dest": "/api/assets.php?type=$1&file=$2"
-    },
-    {
-      "src": "/languages/(.*)$",
-      "dest": "/api/languages.php?lang=$1"
+      "src": "/(css|js|json)/(.*)$",
+      "dest": "/api/assets/index.php?isVercel=true&path=/api/assets/$1/$2"
     },
     {
       "src": "/(.*)",
-      "dest": "/api/index.php"
+      "dest": "/api/views/index.php"
     }
   ]
 }
