@@ -1,6 +1,6 @@
 <?php
 const PUBLIC_URL = 'https://joaopedro-site.vercel.app';
-const API_URL = 'https://joaopedro-site.vercel.app/api';
+const API_URL = 'https://joaopedro-site.vercel.app';
 ?>
 <!DOCTYPE html>
 <html id="html-lang" lang="pt-br">
